@@ -4,10 +4,10 @@ go 1.20
 
 require (
 	github.com/HRMonitorr/PasetoprojectBackend v0.0.11
-	github.com/aiteung/atdb v0.1.1
+	github.com/aiteung/atdb v0.1.3
 	github.com/petapedia/peda v0.1.1
 	github.com/whatsauth/watoken v0.1.3
-	go.mongodb.org/mongo-driver v1.12.1
+	go.mongodb.org/mongo-driver v1.13.0
 )
 
 require (
